@@ -1,1 +1,36 @@
-ijni
+Chronic Kidney Disease (CKD) Prediction Model – AI-Based Health Risk Analyzer
+Identify kidney disease risks early with this powerful Chronic Kidney Disease Prediction Model, crafted using advanced machine learning techniques. This two-part project—spanning training and testing notebooks—offers a complete pipeline for building and validating a diagnostic tool that predicts the presence of chronic kidney disease using real medical data.
+
+Developed in Python with Jupyter Notebooks, the project is ideal for developers, researchers, and healthcare analysts seeking an intelligent, ready-to-use health prediction model.
+
+What’s Included:
+
+Training Notebook:
+
+Data cleaning & preprocessing
+
+Feature engineering based on medical indicators (e.g., blood pressure, albumin, hemoglobin, serum creatinine, and more)
+
+Model building with classification algorithms
+
+Accuracy metrics and performance evaluation
+
+ Testing Notebook:
+
+Real-time prediction testing using new inputs
+
+User-interactive fields for entering medical test values
+
+Instant result output (CKD detected or not)
+
+Key Features:
+
+1) Supports multiple ML models (like Decision Trees, SVM, etc.)
+
+ 2) Clearly visualized data distributions and model results
+
+ 3)Fully customizable and beginner-friendly Python code
+
+ 4)Designed for early diagnosis support and educational demos
+
+
